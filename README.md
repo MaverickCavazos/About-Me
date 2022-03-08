@@ -26,7 +26,7 @@ Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos&theme=radical" />
 
 
-You can find me on ![LinkedIn](https://www.linkedin.com/in/maverick-cavazos-b00872178/)
+You can find me on [LinkedIn](https://www.linkedin.com/in/maverick-cavazos-b00872178/)
 
 
 
