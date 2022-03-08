@@ -15,7 +15,6 @@ Stats
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos&layout=compact&them=radical)](https://github.com/anuraghazra/github-readme-stats)
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos&theme=radical" />
 
 
