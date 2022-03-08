@@ -17,13 +17,15 @@ Checkout My Milestone Projects!
 
 
 
-Stats
+Stats<br />
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=MaverickCavazos&count_private=true&show_icons=true&hide=contribs&theme=radical)
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos&theme=radical" /><br />
+
+
 
 
 You can find me on [LinkedIn](https://www.linkedin.com/in/maverick-cavazos-b00872178/)
