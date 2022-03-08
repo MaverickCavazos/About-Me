@@ -26,7 +26,7 @@
 
 
 
-
+You can find me at [[!LinkedIn][2.2]][2]
 
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-[2]: https://www.linkedin.com/in/heinz-martin/
+[2]: https://www.linkedin.com/in/maverick-cavazos-b00872178/
