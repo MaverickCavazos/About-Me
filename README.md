@@ -12,6 +12,9 @@ Previously I graduated from the University of Texas at San Antonio with a bachel
 Stats
 
 ![Overall Stats](https://github-readme-stats.vercel.app/api?username=MaverickCavazos&count_private=true&show_icons=true&hide=contribs)
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos)](https://github.com/anuraghazra/github-readme-stats)
 
 
@@ -19,6 +22,8 @@ Stats
 _Checkout My Milestone Projects!_
 
 -[COVID Tracker front-end application with third party APIs](https://github.com/MaverickCavazos/COVID-Tracker)
+
+
 -[Coding Buddy full-stack application](https://github.com/MaverickCavazos/Coding-buddy)
 
 
