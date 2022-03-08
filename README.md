@@ -8,6 +8,14 @@
 Currently I am attending a _full-stack developer bootcamp at the University of Texas at Austin_, with a focus on Javascript and other supporting languages! 
 Previously I graduated from the University of Texas at San Antonio with a bachelors in Psychology, so I hope to leverage the knowledge I gained to understand and help create a more user friendly experince!
 
+Checkout My Milestone Projects!
+
+- [COVID Tracker front-end application with third party APIs](https://github.com/MaverickCavazos/COVID-Tracker)
+
+
+- [Coding Buddy full-stack application](https://github.com/MaverickCavazos/Coding-buddy)
+
+
 
 Stats
 
@@ -18,15 +26,13 @@ Stats
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaverickCavazos&theme=radical" />
 
 
-
-_Checkout My Milestone Projects!_
-
-- [COVID Tracker front-end application with third party APIs](https://github.com/MaverickCavazos/COVID-Tracker)
-
-
-- [Coding Buddy full-stack application](https://github.com/MaverickCavazos/Coding-buddy)
+You can find me on [![LinkedIn][3.2]][3].
 
 
 
-You can find me at ![LinkedIn](https://www.linkedin.com/in/maverick-cavazos-b00872178/)
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
 
+
+
+
+[2]: https://www.linkedin.com/in/maverick-cavazos-b00872178/
