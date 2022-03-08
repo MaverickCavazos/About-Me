@@ -30,7 +30,7 @@ You can find me on [![LinkedIn][2.2]][2].
 
 
 
-[2.2]: <img src="https://i.pinimg.com/736x/c6/07/5e/c6075e1eb114df457f8b3170b1a3811e.jpg" width="200">
+[2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png
 
 
 
