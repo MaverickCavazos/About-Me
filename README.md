@@ -5,7 +5,7 @@
 
 <h3>Im Maverick Cavazos!<h3>
 
-Currently I am attending a _full-stack developer bootcamp at the University of Texas at Austin_, with a focus on Javascript and other supporting languages! 
+Currently I am attending a _full-stack developer bootcamp at the University of Texas at Austin_, with a focus on Javascript, Javascript frameworks/libraries, and other supporting languages! 
 Previously I graduated from the University of Texas at San Antonio with a bachelors in Psychology, so I hope to leverage the knowledge I gained to understand and help create a more user friendly experince!
 
 Checkout My Milestone Projects!
